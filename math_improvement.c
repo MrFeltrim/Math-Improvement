@@ -3,6 +3,8 @@
 #include <time.h>
 #include <sys/time.h>                                                           // for gettimeofday()
 
+// Francois was here ! 
+
 int main(){
 
 char reply;
